@@ -1,0 +1,144 @@
+C:\Users\Kaua Instructor\Documents\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.deps.json
+C:\Users\Kaua Instructor\Documents\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Kaua Instructor\Documents\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Kaua Instructor\Documents\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.AssemblyReference.cache
+C:\Users\Kaua Instructor\Documents\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaua Instructor\Documents\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfoInputs.cache
+C:\Users\Kaua Instructor\Documents\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfo.cs
+C:\Users\Kaua Instructor\Documents\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Kaua Instructor\Documents\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Kaua Instructor\Documents\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\refint\WebApiVar.Repository.dll
+C:\Users\Kaua Instructor\Documents\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Kaua Instructor\Documents\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\ref\WebApiVar.Repository.dll
+C:\Users\Kaua Instructor\Documents\sistemaVarC#\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.deps.json
+C:\Users\Kaua Instructor\Documents\sistemaVarC#\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Kaua Instructor\Documents\sistemaVarC#\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Kaua Instructor\Documents\sistemaVarC#\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.AssemblyReference.cache
+C:\Users\Kaua Instructor\Documents\sistemaVarC#\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaua Instructor\Documents\sistemaVarC#\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfoInputs.cache
+C:\Users\Kaua Instructor\Documents\sistemaVarC#\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfo.cs
+C:\Users\Kaua Instructor\Documents\sistemaVarC#\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Kaua Instructor\Documents\sistemaVarC#\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Kaua Instructor\Documents\sistemaVarC#\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\refint\WebApiVar.Repository.dll
+C:\Users\Kaua Instructor\Documents\sistemaVarC#\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Kaua Instructor\Documents\sistemaVarC#\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\ref\WebApiVar.Repository.dll
+C:\Users\Kaua Instructor\Documents\sitemavar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.deps.json
+C:\Users\Kaua Instructor\Documents\sitemavar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Kaua Instructor\Documents\sitemavar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Kaua Instructor\Documents\sitemavar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.AssemblyReference.cache
+C:\Users\Kaua Instructor\Documents\sitemavar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaua Instructor\Documents\sitemavar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfoInputs.cache
+C:\Users\Kaua Instructor\Documents\sitemavar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfo.cs
+C:\Users\Kaua Instructor\Documents\sitemavar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Kaua Instructor\Documents\sitemavar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Kaua Instructor\Documents\sitemavar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\refint\WebApiVar.Repository.dll
+C:\Users\Kaua Instructor\Documents\sitemavar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Kaua Instructor\Documents\sitemavar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\ref\WebApiVar.Repository.dll
+C:\Users\Kaua\Documents\webapiVAR\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.deps.json
+C:\Users\Kaua\Documents\webapiVAR\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Kaua\Documents\webapiVAR\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Kaua\Documents\webapiVAR\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.AssemblyReference.cache
+C:\Users\Kaua\Documents\webapiVAR\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaua\Documents\webapiVAR\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfoInputs.cache
+C:\Users\Kaua\Documents\webapiVAR\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfo.cs
+C:\Users\Kaua\Documents\webapiVAR\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Kaua\Documents\webapiVAR\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Kaua\Documents\webapiVAR\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\refint\WebApiVar.Repository.dll
+C:\Users\Kaua\Documents\webapiVAR\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Kaua\Documents\webapiVAR\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\ref\WebApiVar.Repository.dll
+C:\Users\Dryelle Ebelin\Documents\webapivar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.deps.json
+C:\Users\Dryelle Ebelin\Documents\webapivar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Dryelle Ebelin\Documents\webapivar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Dryelle Ebelin\Documents\webapivar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.AssemblyReference.cache
+C:\Users\Dryelle Ebelin\Documents\webapivar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dryelle Ebelin\Documents\webapivar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfoInputs.cache
+C:\Users\Dryelle Ebelin\Documents\webapivar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfo.cs
+C:\Users\Dryelle Ebelin\Documents\webapivar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dryelle Ebelin\Documents\webapivar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Dryelle Ebelin\Documents\webapivar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\refint\WebApiVar.Repository.dll
+C:\Users\Dryelle Ebelin\Documents\webapivar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Dryelle Ebelin\Documents\webapivar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\ref\WebApiVar.Repository.dll
+C:\Users\Alexandre Gasparino\source\repos-var\back\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.deps.json
+C:\Users\Alexandre Gasparino\source\repos-var\back\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Alexandre Gasparino\source\repos-var\back\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Alexandre Gasparino\source\repos-var\back\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.AssemblyReference.cache
+C:\Users\Alexandre Gasparino\source\repos-var\back\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre Gasparino\source\repos-var\back\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfoInputs.cache
+C:\Users\Alexandre Gasparino\source\repos-var\back\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfo.cs
+C:\Users\Alexandre Gasparino\source\repos-var\back\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Gasparino\source\repos-var\back\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Alexandre Gasparino\source\repos-var\back\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\refint\WebApiVar.Repository.dll
+C:\Users\Alexandre Gasparino\source\repos-var\back\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Alexandre Gasparino\source\repos-var\back\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\ref\WebApiVar.Repository.dll
+C:\Users\Nathan\Desktop\WebApiVar2\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.deps.json
+C:\Users\Nathan\Desktop\WebApiVar2\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Nathan\Desktop\WebApiVar2\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Nathan\Desktop\WebApiVar2\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.AssemblyReference.cache
+C:\Users\Nathan\Desktop\WebApiVar2\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\WebApiVar2\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\WebApiVar2\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\WebApiVar2\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\WebApiVar2\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Nathan\Desktop\WebApiVar2\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\refint\WebApiVar.Repository.dll
+C:\Users\Nathan\Desktop\WebApiVar2\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Nathan\Desktop\WebApiVar2\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\ref\WebApiVar.Repository.dll
+C:\Users\Nathan\Desktop\WebApiVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.deps.json
+C:\Users\Nathan\Desktop\WebApiVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Nathan\Desktop\WebApiVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Nathan\Desktop\WebApiVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.AssemblyReference.cache
+C:\Users\Nathan\Desktop\WebApiVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\WebApiVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\WebApiVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\WebApiVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\WebApiVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Nathan\Desktop\WebApiVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\refint\WebApiVar.Repository.dll
+C:\Users\Nathan\Desktop\WebApiVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Nathan\Desktop\WebApiVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\ref\WebApiVar.Repository.dll
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.deps.json
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.AssemblyReference.cache
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfoInputs.cache
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfo.cs
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\refint\WebApiVar.Repository.dll
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\ref\WebApiVar.Repository.dll
+C:\Users\Kaio\Pictures\SistemaVarTUdo\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.deps.json
+C:\Users\Kaio\Pictures\SistemaVarTUdo\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Kaio\Pictures\SistemaVarTUdo\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Kaio\Pictures\SistemaVarTUdo\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.AssemblyReference.cache
+C:\Users\Kaio\Pictures\SistemaVarTUdo\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaio\Pictures\SistemaVarTUdo\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfoInputs.cache
+C:\Users\Kaio\Pictures\SistemaVarTUdo\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfo.cs
+C:\Users\Kaio\Pictures\SistemaVarTUdo\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Kaio\Pictures\SistemaVarTUdo\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Kaio\Pictures\SistemaVarTUdo\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\refint\WebApiVar.Repository.dll
+C:\Users\Kaio\Pictures\SistemaVarTUdo\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Kaio\Pictures\SistemaVarTUdo\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\ref\WebApiVar.Repository.dll
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVARAPi\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.deps.json
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVARAPi\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVARAPi\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVARAPi\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.AssemblyReference.cache
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVARAPi\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVARAPi\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfoInputs.cache
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVARAPi\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfo.cs
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVARAPi\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVARAPi\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVARAPi\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\refint\WebApiVar.Repository.dll
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVARAPi\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Kaio\Desktop\sistemVar\SistemaDaVARAPi\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\ref\WebApiVar.Repository.dll
+C:\Users\Kaio\Desktop\systemVarBack\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.deps.json
+C:\Users\Kaio\Desktop\systemVarBack\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Kaio\Desktop\systemVarBack\SistemaDaVAR\WebApiVar\WebApiVar.Repository\bin\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Kaio\Desktop\systemVarBack\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.AssemblyReference.cache
+C:\Users\Kaio\Desktop\systemVarBack\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaio\Desktop\systemVarBack\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfoInputs.cache
+C:\Users\Kaio\Desktop\systemVarBack\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.AssemblyInfo.cs
+C:\Users\Kaio\Desktop\systemVarBack\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Kaio\Desktop\systemVarBack\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.dll
+C:\Users\Kaio\Desktop\systemVarBack\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\refint\WebApiVar.Repository.dll
+C:\Users\Kaio\Desktop\systemVarBack\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\WebApiVar.Repository.pdb
+C:\Users\Kaio\Desktop\systemVarBack\SistemaDaVAR\WebApiVar\WebApiVar.Repository\obj\Debug\net6.0\ref\WebApiVar.Repository.dll

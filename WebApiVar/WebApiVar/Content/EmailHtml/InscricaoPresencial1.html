@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instituto Var Solutions</title>
+    <style>
+        table {
+            width: 100%;
+            background-color: #26262c !important;
+            color: #fff;
+        }
+        td {
+            padding: 10px;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            line-height: 1.4;
+        }
+        .content {
+            padding: 20px;
+            text-align: left;
+            font-size: 15px;
+            background-color: #26262c !important;
+        }
+        .content h2 {
+            font-size: 25px;
+            font-weight: 700;
+        }
+        .content a {
+            font-weight: 700;
+            margin-right: 2vw;
+        }
+        em{
+            font-weight: 600;
+        }
+        .cor{
+            color: #0408f3;
+            font-weight: 500;
+        }
+        .underline{
+            text-decoration: underline;
+        }
+
+        /* notebook */
+        @media screen and (min-width: 1081px){
+            table {
+                width: 40%;
+                margin-left: 30%;
+            }
+            .content a {
+                margin-right: 1vw;
+            }
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td class="content">
+                <h2>Olá, @Nome!</h2>
+                <p>O seu cadastro foi <strong>confirmado</strong> na nossa plataforma. Agradecemos por se inscrever em nosso Instituto!</p>
+                <strong class="underline">Lista de Espera:</strong> Você entrou para a lista de espera e está na posição @Posicao.
+                <br><strong class="underline">Turma Escolhida:</strong> @Turma.
+                <p>Fique de olho na sua caixa de entrada! Quando você alcançar a posição 1 na lista de espera, enviaremos um e-mail com todos os detalhes da matrícula.</p>
+                <p><em>{  "nossa_paixao": "Tecnologia", "nossa_missao": "Transformar vidas"  }</em></p>
+                <p>Acesse nossas redes sociais:</p>
+                <a class="cor underline" href="https://www.instagram.com/var.solutions/" target="_blank">INSTAGRAM</a>
+                <a class="cor underline" href="https://www.youtube.com/@varsolutions" target="_blank">YOUTUBE</a>
+                <a class="cor underline" href="https://api.whatsapp.com/send?phone=551151987389" target="_blank">WHATSAPP</a>
+                <br/>
+                <p>Um abraço - Instituto Var Solutions</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
